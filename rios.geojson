@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Nombre": "Rio" }, "geometry": { "type": "LineString", "coordinates": [ [ -83.919745979161505, 9.864072601975789 ], [ -83.918788565179554, 9.863290713890523 ], [ -83.919227379921281, 9.861288122978261 ], [ -83.918860371228192, 9.860258902947654 ], [ -83.918269965939317, 9.859572756260585 ] ] } }
+]
+}
